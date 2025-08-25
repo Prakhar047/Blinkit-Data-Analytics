@@ -19,5 +19,9 @@ The goal of this project is to uncover key business insights, track important KP
     - Highlighted opportunities to improve customer experience.
     - Analyzed inventory patterns to optimize stock management.
 ## Dashboard Preview
-![Alt text](https://github.com/Prakhar047/Blinkit-Data-Analytics/blob/main/Dashboard_image.png)) "Blinkit-Data-Analysis-Dashboard")
+![Alt text](https://github.com/Prakhar047/Blinkit-Data-Analytics/blob/main/Dashboard_image.png)
+## Insights & Opportunities
+- Sales performance can be boosted by targeting underperforming product categories.
+- Customer satisfaction shows correlation with product ratings → scope for improving service in low-rated areas.
+- Inventory distribution highlights areas where overstocking or understocking can be optimized.
 
